@@ -6,7 +6,7 @@
 
 Скопируйте сообщение и отправьте его в чат Codex:
 
-> Установи мне навык «Моя карта МРП» по ссылке https://github.com/aydarsh/moya-karta-mrp/tree/main/moya-karta-mrp
+> Установи мне навык «Моя карта МРП» по ссылке https://github.com/aydarsh/moya-karta-mrp
 
 ## Первая запись
 
