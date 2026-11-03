@@ -1,0 +1,3 @@
+interface:
+  display_name: "Моя карта МРП"
+  short_description: "Дневник наблюдений и разбор карты цикла в Excel"
